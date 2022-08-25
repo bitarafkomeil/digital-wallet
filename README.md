@@ -2,7 +2,7 @@ DIGITAL WALLET
 
 This project has been developed with Java 17, Spring Boot, Map Struct, Lombok, SpringDoc and H2 Database.
 
-This project include test files.
+This project includes test files.
 
 You can see api documentation at :
 
